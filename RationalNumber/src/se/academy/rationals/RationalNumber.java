@@ -1,4 +1,4 @@
-package se.academy;
+package se.academy.rationals;
 
 /**
  * Created by Emil Båth on 2016-08-12.
